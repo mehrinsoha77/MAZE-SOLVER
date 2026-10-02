@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.obj
+leaderboard.txt
+profile.txt
+.vscode/
+*.code-workspace
